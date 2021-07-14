@@ -1,1 +1,0 @@
-(self.webpackChunkdoc_ops=self.webpackChunkdoc_ops||[]).push([[21],{890:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/IOTA-2.0-Research-Specifications/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
