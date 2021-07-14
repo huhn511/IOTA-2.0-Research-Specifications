@@ -1,0 +1,1 @@
+(self.webpackChunkdoc_ops=self.webpackChunkdoc_ops||[]).push([[241],{3007:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/IOTA-2.0-Research-Specifications/blog/tags","slug":"hello","name":"hello","count":1,"permalink":"/IOTA-2.0-Research-Specifications/blog/tags/hello"}')}}]);
